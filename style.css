@@ -92,12 +92,11 @@
 
 .right-title {
     color: #eeeeee;
+    font-size: 25px
 }
 
 .gap {
     padding-bottom: 2rem;
-    font-size: 25px;
-    font-weight: bold;
 }
 .about-me-contents {
     font-size: 18px;
@@ -117,7 +116,7 @@
 .education-school-name,
 .awards-company-name {
     font-size: 20px;
-    
+    font-weight: bold;
 }
 
 .exp-time-period,
@@ -129,27 +128,12 @@
 .exp-position,
 .education-subject,
 .awards-name {
-    font-size: 20px;
-  
-   }
+    font-size: 25px;
+}
 
 .exp-desc,
 .education-desc,
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
-}
-.exp-left {
-float: left;
-position: absolute;
-  width: 200px;
-  /*border: 3px solid #730021;*/
-  padding: 30px;
-    }
-.exp-right {
-  float: right;
-  position:relative;
-  width: 250px;
-  /*border: 3px solid #73AD21;*/
-  padding: -10px;  
 }
